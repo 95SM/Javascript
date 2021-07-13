@@ -1,0 +1,6 @@
+var
+
+let - var 과 동일
+const - tkdtn
+
+const 로 상수로 정의 -> 변경이 필요한 경우만 let
